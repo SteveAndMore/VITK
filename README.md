@@ -1,4 +1,4 @@
-# VITK
+# Projet VITK, fait par Steve SUISSA et Vincent DEGOT
 
 ## Recalage
 
